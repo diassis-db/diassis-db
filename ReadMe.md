@@ -1,5 +1,5 @@
 # 💫 About Me:
-Sou estudante de programação back-end,<br>realizo implementação em códigos principalmente na linguagem C#,<br>utilizo framework dot.Net
+I'm Deassis Barbosa<br>
 
 
 ## 🌐 Socials:
