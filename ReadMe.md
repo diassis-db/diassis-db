@@ -3,7 +3,7 @@ I'm Deassis Barbosa<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deassisbarbosa)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diassisbarbosa.db@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/deassisbarbosa/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diassisbarbosa.db@gmail.com) 
 
 # 💻 Tech Stack:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" height=40 width=40 /></img>
